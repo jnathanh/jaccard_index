@@ -1,5 +1,7 @@
 Make sure your ruby version is *ruby 2.3.1p112*
 
+Runtime Complexity: O(1)
+
 To run tests (from project root directory): `ruby test.rb`
 
 To get an intersection over union result (from project root directory): `ruby iou.rb 0,0,4,4 2,0,4,4`
